@@ -1,6 +1,0 @@
-{
-    "timestamp": "20250328_105257",
-    "model": "gemma3:4b",
-    "prompt_file": "prompts/create_report.txt",
-    "nvidia_smi": "2025/03/28 10:52:57.533, 63.38, 8564, 92"
-}
