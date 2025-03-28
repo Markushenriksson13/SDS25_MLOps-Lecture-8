@@ -31,13 +31,13 @@ You will print out the reports and design evaluation instructions, which will be
 
 
 ## List of available models
-/work 
-[ 11:01:54 ] ➜  ollama list
-NAME               ID              SIZE      MODIFIED          
-gemma3:1b          8648f39daa8f    815 MB    24 hours ago         
-gemma3:4b          a2af6cc3eb7f    3.3 GB    24 hours ago         
-gemma3:27b         a418f5838eaf    17 GB     24 hours ago         
-gemma3:12b         f4031aab637d    8.1 GB    24 hours ago         
+ 
+| NAME       | SIZE   |
+|------------|--------|
+| gemma3:1b  | 815 MB |
+| gemma3:4b  | 3.3 GB |
+| gemma3:12b | 8.1 GB |
+| gemma3:27b | 17 GB  |      
 
 
 # Backup
