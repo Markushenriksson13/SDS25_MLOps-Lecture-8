@@ -30,7 +30,7 @@ You will print out the reports and design evaluation instructions, which will be
 - RUN SCRIPTS ONE BY ONE. Some might take a bit longer... 
     -   Script one: **get_data_api.py** creates file **raw_articles.json** in /data/
     -   Script two: **ollama_call_translate.py** (might take a few minutes) creates file **translated_articles.json** in /data/
-    -   Script three: (run 4 times) **ollama_call.py*** creates reports in /reports/
+    -   Script three: (run 4 times) **ollama_call.py** creates reports in /reports/
 
 
 - Print reports and print your Evaluation instructions, and give them to the "partner" group's reports 
