@@ -51,8 +51,20 @@ You will print out the reports and design evaluation instructions, which will be
 | gemma3:27b | 17 GB  |      
 
 
+# DISCUSSION after the exercise
+
+Open document **Discussion.md** and prepare a short presentation. 
+
+# EXTRA
+
+If time allows you, open **Extra_Assignment_steps.md** and try to do as much as possible. you can share the result with me on Teams. 
 
 
 # Backup
 
 In case that something goes wrong with any of the server, there will be folder **BACKUP** with reports for each group. 
+
+
+# HELP
+
+If you have problem printing Markdown files, you can install **Markdown PDF  v1.5.0** and convert them to PDF. 
