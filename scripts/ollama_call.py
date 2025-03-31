@@ -9,7 +9,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # === CONFIG ===
 API_URL = "https://app-api-pk.cloud.aau.dk/api/generate"
-MODEL_NAME = "gemma3:1b"
+MODEL_NAME = "gemma3:1b"  # ("gemma3:1b" ; "gemma3:4b" ; "gemma3:12b" ; "gemma3:27b")
 ARTICLES = "data/translated_articles.json"
 PROMPT = "prompts/create_report.txt"
 USAGE_LOG_FOLDER = "usage"
